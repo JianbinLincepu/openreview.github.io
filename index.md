@@ -2,9 +2,9 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>李建彬</h1>
-      <p><b>教授</b></p>
-      <p><b>华北电力大学控制与计算机工程学院</b></p>
+      <h1>李建彬(Jianbin Li)</h1>
+      <p><b>教授(Professor)</b></p>
+      <p><b>华北电力大学控制与计算机工程学院(North China Electric Power University)</b></p>
       <p><b>邮箱：lijb87@ncepu.edu.cn</b></p>
       <p><b>地址：北京市昌平区北农路2号华北电力大学，主楼E座607室，办公电话：010-61772570</b></p>
       <p><a href="/index-en.html">English Version</a></p>
